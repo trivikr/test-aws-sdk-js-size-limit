@@ -17,16 +17,12 @@ Discussion in bug report at https://github.com/aws/aws-sdk-js-v3/issues/7607
 
 ### `@aws-sdk/client-ec2@3.929.0`
 
+```console
+  out.js  109.0kb
 ```
-  Size:       32.94 kB with all dependencies, minified and brotlied
-```
-
-Visualizer: [client-ec2@3.929.0.html](./esbuild-why/client-ec2@3.929.0.html)
 
 ### `@aws-sdk/client-ec2@3.930.0`
 
+```console
+  out.js  570.5kb
 ```
-  Size:       123.68 kB with all dependencies, minified and brotlied
-```
-
-Visualizer: [client-ec2@3.930.0.html](./esbuild-why/client-ec2@3.930.0.html)
